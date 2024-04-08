@@ -33,7 +33,7 @@ I worked as an IT Technician for 3 years.
 ![Empathetic](https://img.shields.io/badge/Empathetic-blue)
 
 ### Social Media
-[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)](https://web.dio.me/users/biassistencia)
+[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)]((https://web.dio.me/users/atalles2005))
 [![LINKDIN](https://img.shields.io/badge/Linkdin-blue)]((https://www.linkedin.com/in/arthurtalles/))
 
 ### GitHub Stats
