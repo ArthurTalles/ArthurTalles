@@ -1,41 +1,42 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<!--
-**ArthurTalles/ArthurTalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Analise e Desenvolvimento de Sistemas na faculdade SENAC.
+- 🌱 Aprendendo mais sobre API REST.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Skills
 
-# Arthur Talles
-I'm Full Stack Developer, by Arthur Talles since 2020.
-I worked as an IT Technician for 3 years.
+**Aplicações e dados**
 
-### Hard Skills
-![HTML](https://img.shields.io/badge/HTML-red)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-darkblue)
-![SQL](https://img.shields.io/badge/SQL-orange)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-### Soft Skills
-![Communicative](https://img.shields.io/badge/Communicative-red)
-![Proactive](https://img.shields.io/badge/Proactive-blue)
-![Organized](https://img.shields.io/badge/Organized-red)
-![Empathetic](https://img.shields.io/badge/Empathetic-blue)
+**Utilidades**
 
-### Social Media
-[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)]([https://web.dio.me/users/biassistencia](https://web.dio.me/users/atalles2005))
-[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)]([https://www.linkedin.com/in/ademilson-simiao-950656171/](https://www.linkedin.com/in/arthurtalles/))
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdemilsonSimiao&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdemilsonSimiao&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+**DevOps**
+
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurtalles/)](https://www.linkedin.com/in/arthurtalles/)
+[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)](https://web.dio.me/users/atalles2005)
