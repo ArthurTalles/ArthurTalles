@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -33,7 +31,7 @@
 <br/>
 
 <a href="https://github.com/ArthurTalles" title="Perfil do Arthur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurtalles&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
