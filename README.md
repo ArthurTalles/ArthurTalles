@@ -33,8 +33,8 @@ I worked as an IT Technician for 3 years.
 ![Empathetic](https://img.shields.io/badge/Empathetic-blue)
 
 ### Social Media
-[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)]((https://web.dio.me/users/atalles2005))
-[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)]((https://www.linkedin.com/in/arthurtalles/))
+[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)]([https://web.dio.me/users/biassistencia](https://web.dio.me/users/atalles2005))
+[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)]([https://www.linkedin.com/in/ademilson-simiao-950656171/](https://www.linkedin.com/in/arthurtalles/))
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdemilsonSimiao&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
