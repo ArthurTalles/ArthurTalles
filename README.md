@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas na faculdade SENAC.
+- 🎓 Bacharel Analise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo mais sobre API REST.
 
 **Utilidades**
